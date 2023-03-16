@@ -4,9 +4,13 @@
 
 ## Challenge overview
 
-In this challenge, you will explore creating an equivalent to Buddyboss in Web3. Buddyboss is an advanced Wordpress plugin that allows to create online social communities (like Facebook, LinkedIn...etc.). We expect teams to spend sometime finding alternatives in the Web3 world that would be similar to [Buddyboss](https://www.buddyboss.com).
+In this challenge, you will explore 3 web3 platforms based on three different ecosystems. Below are the three:
 
-Teams are free to research current platforms 
+  - [Nostr](https://nostr.com/): Based on the [Bitcoin](https://bitcoin.org/en/) ecosystem
+  - [Lens Protocol](https://www.lens.xyz/): Based on the [Ethereum](https://ethereum.org/en/) ecosystem
+  - [CyberConnect](https://docs.cyberconnect.me/): Based on the [Solana](https://solana.com/) ecosystem (P.S: If CyberConnect does not open on Chrome, please use another browser)
+
+Teams get to pick which ecosystem they'd like to learn and work with and the goal is to get a prototype out of either of these.
 
 ## Steps for this Hackathon
 
